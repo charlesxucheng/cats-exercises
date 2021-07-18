@@ -1,1 +1,1 @@
-Notes, examples and exercises I did when reading the book [Scala with Cats](https://www.scalawithcats.com/).
+The notes I took and examples and exercises I tried when reading the book [Scala with Cats](https://www.scalawithcats.com/).
