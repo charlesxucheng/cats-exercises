@@ -4,6 +4,7 @@ Formally, a monoid for a type A is:
 * an element empty of type A
 
 Monoids must formally obey these laws: 
+
 For all values x, y, and z, in A, 
 * combine must be associative 
 * empty must be an identity element
