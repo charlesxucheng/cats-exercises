@@ -20,3 +20,7 @@ In Scala, we declare type constructors using underscores (F[_]).
 The partial unification in the Scala compiler works by fixing type parameters from left to right. 
 Partial unification is the default behaviour in Scala 2.13. In earlier versions of Scala we need to add the -Ypartial-unification compiler flag. 
 
+# FP Patterns
+There are two functional programming patterns that we should consider when defining a trait:
+* we can make it a typeclass, or;
+* we can make it an algebraic data type (and hence seal it).
